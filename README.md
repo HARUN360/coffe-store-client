@@ -2,4 +2,4 @@
 
 Live site:
 
-- [PrimeHomes](https://bhai-ata-test-project.web.app/)
+- [coffe-house](https://bhai-ata-test-project.web.app/)
