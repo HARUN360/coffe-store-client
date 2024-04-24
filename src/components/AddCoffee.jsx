@@ -15,7 +15,7 @@ const AddCoffee = () => {
         console.log(newCoffee);
 
         // send data for mongodb
-        fetch('http://localhost:5000/coffee', {
+        fetch('https://coffee-store-server-beta-swart.vercel.app/coffee', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'
